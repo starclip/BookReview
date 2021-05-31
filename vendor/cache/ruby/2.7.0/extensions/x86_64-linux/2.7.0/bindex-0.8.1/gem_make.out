@@ -1,0 +1,21 @@
+current directory: /mnt/c/BookReview/BookReview/vendor/cache/ruby/2.7.0/gems/bindex-0.8.1/ext/skiptrace
+/home/samantha/.rvm/rubies/ruby-2.7.2/bin/ruby -I /home/samantha/.rvm/rubies/ruby-2.7.2/lib/ruby/2.7.0 -r ./siteconf20210530-10688-p1xr01.rb extconf.rb
+creating Makefile
+
+current directory: /mnt/c/BookReview/BookReview/vendor/cache/ruby/2.7.0/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR=" clean
+make: Warning: File 'Makefile' has modification time 0.48 s in the future
+make: warning:  Clock skew detected.  Your build may be incomplete.
+
+current directory: /mnt/c/BookReview/BookReview/vendor/cache/ruby/2.7.0/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR="
+make: Warning: File 'Makefile' has modification time 0.44 s in the future
+compiling cruby.c
+linking shared-object skiptrace/internal/cruby.so
+make: warning:  Clock skew detected.  Your build may be incomplete.
+
+current directory: /mnt/c/BookReview/BookReview/vendor/cache/ruby/2.7.0/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR=" install
+make: Warning: File 'cruby.so' has modification time 0.48 s in the future
+/usr/bin/install -m 0755 cruby.so ./.gem.20210530-10688-1b7nhgg/skiptrace/internal
+make: warning:  Clock skew detected.  Your build may be incomplete.

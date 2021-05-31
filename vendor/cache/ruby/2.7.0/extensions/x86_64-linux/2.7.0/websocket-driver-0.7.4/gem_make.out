@@ -1,0 +1,21 @@
+current directory: /mnt/c/BookReview/BookReview/vendor/cache/ruby/2.7.0/gems/websocket-driver-0.7.4/ext/websocket-driver
+/home/samantha/.rvm/rubies/ruby-2.7.2/bin/ruby -I /home/samantha/.rvm/rubies/ruby-2.7.2/lib/ruby/2.7.0 -r ./siteconf20210530-10688-1u40mlm.rb extconf.rb
+creating Makefile
+
+current directory: /mnt/c/BookReview/BookReview/vendor/cache/ruby/2.7.0/gems/websocket-driver-0.7.4/ext/websocket-driver
+make "DESTDIR=" clean
+make: Warning: File 'Makefile' has modification time 0.45 s in the future
+make: warning:  Clock skew detected.  Your build may be incomplete.
+
+current directory: /mnt/c/BookReview/BookReview/vendor/cache/ruby/2.7.0/gems/websocket-driver-0.7.4/ext/websocket-driver
+make "DESTDIR="
+make: Warning: File 'Makefile' has modification time 0.39 s in the future
+compiling websocket_mask.c
+linking shared-object websocket_mask.so
+make: warning:  Clock skew detected.  Your build may be incomplete.
+
+current directory: /mnt/c/BookReview/BookReview/vendor/cache/ruby/2.7.0/gems/websocket-driver-0.7.4/ext/websocket-driver
+make "DESTDIR=" install
+make: Warning: File 'websocket_mask.so' has modification time 0.48 s in the future
+/usr/bin/install -m 0755 websocket_mask.so ./.gem.20210530-10688-6mhpwy
+make: warning:  Clock skew detected.  Your build may be incomplete.
